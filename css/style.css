@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mana lapa</title>
+    <link rel="stylesheet" type="text/css" src"css/stlye.css">
+    <style>
+        p {
+            color:red;
+        }
+
+        .article {
+            padding: 40px;
+            border: 10px solid black;
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Esi sveicināts manā super lapā!</h1>
+    <p style="color: aquamarine;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum aspernatur, aliquid placeat ut tenetur numquam, fuga totam alias odit harum similique pariatur autem quas cupiditate ducimus animi illum quia at.</p>
+    <p class="article">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, in dolores. Sit, in temporibus! At amet voluptate, earum officiis veritatis distinctio inventore? Cumque quisquam mollitia quos consectetur odit minus. In.</p>
+    <p class="article">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad cupiditate repellendus odit magni voluptates provident perferendis voluptatum consequuntur, voluptatem nisi sit dolores assumenda dicta atque itaque molestias unde iusto nesciunt!</p>
+    <p id="end">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, corporis! Rem aspernatur rerum odio esse mollitia? Atque iure consectetur quo nemo soluta, a et enim suscipit reprehenderit voluptatibus dolorum dolore.</p>
+
+</body>
+</html>
